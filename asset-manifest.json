@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/%7BGithub-repo-name%7D/static/css/main.4e3ef4c4.chunk.css",
-    "main.js": "/%7BGithub-repo-name%7D/static/js/main.76458195.chunk.js",
-    "main.js.map": "/%7BGithub-repo-name%7D/static/js/main.76458195.chunk.js.map",
-    "runtime-main.js": "/%7BGithub-repo-name%7D/static/js/runtime-main.4487c78b.js",
-    "runtime-main.js.map": "/%7BGithub-repo-name%7D/static/js/runtime-main.4487c78b.js.map",
-    "static/js/2.2dd63ee5.chunk.js": "/%7BGithub-repo-name%7D/static/js/2.2dd63ee5.chunk.js",
-    "static/js/2.2dd63ee5.chunk.js.map": "/%7BGithub-repo-name%7D/static/js/2.2dd63ee5.chunk.js.map",
-    "static/js/3.4ae1fd40.chunk.js": "/%7BGithub-repo-name%7D/static/js/3.4ae1fd40.chunk.js",
-    "static/js/3.4ae1fd40.chunk.js.map": "/%7BGithub-repo-name%7D/static/js/3.4ae1fd40.chunk.js.map",
-    "index.html": "/%7BGithub-repo-name%7D/index.html",
-    "static/css/main.4e3ef4c4.chunk.css.map": "/%7BGithub-repo-name%7D/static/css/main.4e3ef4c4.chunk.css.map",
-    "static/js/2.2dd63ee5.chunk.js.LICENSE.txt": "/%7BGithub-repo-name%7D/static/js/2.2dd63ee5.chunk.js.LICENSE.txt"
+    "main.css": "/wave-algorithm/static/css/main.4e3ef4c4.chunk.css",
+    "main.js": "/wave-algorithm/static/js/main.76458195.chunk.js",
+    "main.js.map": "/wave-algorithm/static/js/main.76458195.chunk.js.map",
+    "runtime-main.js": "/wave-algorithm/static/js/runtime-main.7c668892.js",
+    "runtime-main.js.map": "/wave-algorithm/static/js/runtime-main.7c668892.js.map",
+    "static/js/2.2dd63ee5.chunk.js": "/wave-algorithm/static/js/2.2dd63ee5.chunk.js",
+    "static/js/2.2dd63ee5.chunk.js.map": "/wave-algorithm/static/js/2.2dd63ee5.chunk.js.map",
+    "static/js/3.4ae1fd40.chunk.js": "/wave-algorithm/static/js/3.4ae1fd40.chunk.js",
+    "static/js/3.4ae1fd40.chunk.js.map": "/wave-algorithm/static/js/3.4ae1fd40.chunk.js.map",
+    "index.html": "/wave-algorithm/index.html",
+    "static/css/main.4e3ef4c4.chunk.css.map": "/wave-algorithm/static/css/main.4e3ef4c4.chunk.css.map",
+    "static/js/2.2dd63ee5.chunk.js.LICENSE.txt": "/wave-algorithm/static/js/2.2dd63ee5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4487c78b.js",
+    "static/js/runtime-main.7c668892.js",
     "static/js/2.2dd63ee5.chunk.js",
     "static/css/main.4e3ef4c4.chunk.css",
     "static/js/main.76458195.chunk.js"
