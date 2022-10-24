@@ -1,3 +1,7 @@
+# Demo
+
+https://romannovojilov.github.io/wave-algorithm/
+
 # Для просмотра приложения
 
 - Откройте файл `/build/index.html` в браузере
